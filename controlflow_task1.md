@@ -1,20 +1,29 @@
-Python Practice Task – Control Flow (if, elif, else)
+# Python Practice Task – Control Flow (`if`, `elif`, `else`)
 
-Write a Python program that asks the user to enter any string and perform the following operations in the given order:
+Write a Python program that asks the user to enter any string and performs the following operations in the given order:
 
-If the length of the string is greater than 6, print:
+1. If the length of the string is greater than `6`, print:
 
-hello world from databricks
+   ```python
+   hello world from databricks
+   ```
 
-Else if the string contains the character h, print:
+2. Else if the string contains the character `h`, print:
 
-linux kernel version
+   ```python
+   linux kernel version
+   ```
 
-Else if the length of the string is greater than 2 and less than 6, print:
+3. Else if the length of the string is greater than `2` and less than `6`, print:
 
-python version
+   ```python
+   python version
+   ```
 
-Else if the string contains the keyword databricks, use a pass statement.
-Otherwise print:
+4. Else if the string contains the keyword `databricks`, use a `pass` statement.
 
-I am still learning python
+5. Otherwise, print:
+
+   ```python
+   I am still learning python
+   ```
